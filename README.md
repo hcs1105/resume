@@ -8,8 +8,8 @@
 - 이메일 : hcs1105@gmail.com<br>
 - 직업 : UI 개발자<br>
 - 취미: 독서, 바둑, 여행<br>
-- GitHub: [github.com/hcs1105](https://github.com/hcs1105)<br>
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)<br>
+- GitHub : https://github.com/hcs1105<br>
+- LinkedIn : https://linkedin.com/in/hcs1105<br>
 
 ## 학력
 - 한국방송통신대학교 컴퓨터과학과 졸업(2011.03~2017.02)
