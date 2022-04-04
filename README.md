@@ -1,4 +1,4 @@
-# 이력서 ![GitHub Last ommit](https://img.shields.io/github/last-commit/hcs1105/RESUME.svg)
+# 이력서 및 수행 프로젝트 ![GitHub Last ommit](https://img.shields.io/github/last-commit/hcs1105/RESUME.svg)
 
 ## 소개
 <img src="https://github.com/hcs1105/resume/blob/main/images/hcs1105.jpg" width="200" height="200" alt="한창수 프로필 사진">
