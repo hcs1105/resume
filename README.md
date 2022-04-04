@@ -87,7 +87,7 @@
 #### eFormSign 블로그 - https://www.eformsign.com/kr/blog/
 1. 참여 기간 : 2017.03 ~ 2017.12
 2. 고객사 : 포시에스
-3. 개발 언어 : HTML, CSS, JavaScript / Git
+3. 개발 언어 : HTML, CSS, JavaScript
 4. 담당 업무 : UI 개발
 5. 소개 : 퍼블리싱 작업 및 콘텐츠 생성 ? 관리 업무를 담당하여 고객들에게 eformsign과 관련된 정보들을 제공하는 블로그입니다.
 
