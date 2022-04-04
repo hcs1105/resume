@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-3ddc84?style=flat-round&logo=html5&logoColor=fff">
   <img src="https://img.shields.io/badge/CSS3-000?style=flat-round&logo=css3&logoColor=fff">
   <img src="https://img.shields.io/badge/SASS(SCSS)-ff69b4?style=flat-round&logo=sass&logoColor=fff">
-  <img src="https://img.shields.io/badge/less-2b4c80?style=flat-round&logo=less&logoColor=fff">
+  <img src="https://img.shields.io/badge/Less-2b4c80?style=flat-round&logo=less&logoColor=fff">
   <img src="https://img.shields.io/badge/ECMAScript-ea4335?style=flat-round&logo=javascript&logoColor=fff">
   <img src="https://img.shields.io/badge/jQuery-000?style=flat-round&logo=jQuery&logoColor=fff">
   <img src="https://img.shields.io/badge/React-02569B?style=flat-round&logo=React&logoColor=fff">
