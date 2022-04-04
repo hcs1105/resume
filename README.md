@@ -26,6 +26,8 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-3ddc84?style=flat-round&logo=html5&logoColor=fff">
   <img src="https://img.shields.io/badge/CSS3-000?style=flat-round&logo=css3&logoColor=fff">
+  <img src="https://img.shields.io/badge/SASS(SCSS)-ff69b4?style=flat-round&logo=sass&logoColor=fff">
+  <img src="https://img.shields.io/badge/less-2b4c80?style=flat-round&logo=less&logoColor=fff">
   <img src="https://img.shields.io/badge/ECMAScript-ea4335?style=flat-round&logo=javascript&logoColor=fff">
   <img src="https://img.shields.io/badge/jQuery-000?style=flat-round&logo=jQuery&logoColor=fff">
   <img src="https://img.shields.io/badge/React-02569B?style=flat-round&logo=React&logoColor=fff">
@@ -35,3 +37,20 @@
 </p>
 
 ## 수행 프로젝트
+
+### 유컴패니온
+#### The H - https://the-h.co.kr. 
+1. 참여 기간 : 2022.01 ~ 2022.03
+2. 고객사 : 현대건설
+3. 개발 언어 / 버전 관리 도구 : HTML, SCSS, JavaScript / Git
+4. 담당 업무 : UI 개발
+5. 소개 : 현대건설에서 만들고 있는 아파트 정보들을 제공하며 2022년 3월 4일에 웹접근성 인증 마크를 갱신한 프로젝트입니다.
+
+#### SK 브로드밴드 - https://www.skbroadband.com/Main.do / https://m.skbroadband.com/Main.do
+1. 참여 기간 : 2021.07 ~ 2022.01
+2. 고객사 : SK 브로드밴드
+3. 개발 언어 / 버전 관리 도구 : HTML, JSP, PHP, ASP, CSS, JavaScript / SVN
+4. 담당 업무 : UI 개발
+5. 소개 : SK 브로드밴드의 개별 파트인 개인ㆍ기업ㆍB TVㆍB Shop 사이트를 리뉴얼하고 관리하는 프로젝트입니다.
+
+### 포시에스
