@@ -1,4 +1,4 @@
-# 이력서 및 수행 프로젝트 ![GitHub Last ommit](https://img.shields.io/github/last-commit/hcs1105/RESUME.svg)
+# 이력서 및 경력기술서 ![GitHub Last ommit](https://img.shields.io/github/last-commit/hcs1105/RESUME.svg)
 
 ## 소개
 <img src="https://github.com/hcs1105/resume/blob/main/images/hcs1105.jpg" width="200" height="200" alt="한창수 프로필 사진">
@@ -34,6 +34,16 @@
   <img src="https://img.shields.io/badge/Node.js-393?style=flat-round&logo=Node.js&logoColor=fff">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=fff">
   <img src="https://img.shields.io/badge/PHP-393?style=flat-round&logo=php&logoColor=fff">
+</p>
+
+## 개발 도구 및 버전 관리 도구
+<p>
+  <img src="https://img.shields.io/badge/Git-000?style=flat-round&logo=Git&logoColor=fff">
+  <img src="https://img.shields.io/badge/Webpack-393?style=flat-round&logo=Webpack&logoColor=fff">
+  <img src="https://img.shields.io/badge/SourceTree-00f?style=flat-round&logo=sourcetree&logoColor=fff">
+  <img src="https://img.shields.io/badge/Visual Studio Code-f05032?style=flat-round&logo=visualstudiocode&logoColor=fff">
+  <img src="https://img.shields.io/badge/Eclipse-00f?style=flat-round&logo=eclipse&logoColor=fff">
+  <img src="https://img.shields.io/badge/Gulp-f05032?style=flat-round&logo=gulp&logoColor=fff">
 </p>
 
 ## 수행 프로젝트
