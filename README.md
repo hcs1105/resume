@@ -6,7 +6,7 @@
 - 이름 : 한창수(Han Changsu)<br>
 - 생년월일 : 1977. 11. 05<br>
 - 이메일 : hcs1105@gmail.com<br>
-- 직업 : Front-end 개발자<br>
+- 직업 : UI & Front-end 개발자<br>
 - 취미: 독서, 바둑, 여행<br>
 - GitHub : https://github.com/hcs1105<br>
 - LinkedIn : https://linkedin.com/in/hcs1105<br>
