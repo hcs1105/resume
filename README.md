@@ -1,4 +1,4 @@
-# 이력서 및 수행 프로젝트 ![GitHub Last ommit](https://img.shields.io/github/last-commit/hcs1105/RESUME.svg)
+# 이력서 및 경력기술서 ![GitHub Last ommit](https://img.shields.io/github/last-commit/hcs1105/RESUME.svg)
 
 ## 소개
 <img src="https://github.com/hcs1105/resume/blob/main/images/hcs1105.jpg" width="200" height="200" alt="한창수 프로필 사진">
@@ -6,7 +6,7 @@
 - 이름 : 한창수(Han Changsu)<br>
 - 생년월일 : 1977. 11. 05<br>
 - 이메일 : hcs1105@gmail.com<br>
-- 직업 : UI 개발자<br>
+- 직업 : Front-end 개발자<br>
 - 취미: 독서, 바둑, 여행<br>
 - GitHub : https://github.com/hcs1105<br>
 - LinkedIn : https://linkedin.com/in/hcs1105<br>
@@ -150,16 +150,14 @@
 2. 고객사 : 한국전자통신연구원(ETRL)
 3. 개발 언어 / 버전 관리 도구 : HTML, CSS, JavaScript / SVN
 4. 담당 업무 : UI 개발
-5. 소개 : ETRL, 대전광역시 교육청과 협의하여 대전광역시에 있는 학교들 간에 교육 정보를 공유하
-도록 도움이 되는 솔루션을 구축한 프로젝트입니다.
+5. 소개 : ETRL, 대전광역시 교육청과 협의하여 대전광역시에 있는 학교들 간에 교육 정보를 공유하도록 도움이 되는 솔루션을 구축한 프로젝트입니다.
 
 #### [Avantis] - 무선 인터넷 단말기 관리 시스템
 1. 참여 기간 : 2010.09 ~ 2010.11
 2. 고객사 : 아반티스(Avantis)
 3. 개발 언어 / 버전 관리 도구 : HTML, CSS, JavaScript / SVN
 4. 담당 업무 : UI 개발
-5. 소개 : 아반티스에서 개발한 안드로이드용 기반의 Home Tablet, Media Device 등을 관리하는데 도
-움이 되는 솔루션을 구축한 프로젝트입니다.
+5. 소개 : 아반티스에서 개발한 안드로이드용 기반의 Home Tablet, Media Device 등을 관리하는데 도움이 되는 솔루션을 구축한 프로젝트입니다.
 
 ### 애드토핑
 
