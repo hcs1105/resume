@@ -116,7 +116,7 @@
 4. 개발 언어 / 버전 관리 도구 : HTML, CSS, JavaScript / SVN
 5. 담당 업무 : UI 개발
 5. 소개 : 웹웨어는 공급된 다양한 콘텐츠뿐만 아니라 사용자가 원하는 콘텐츠를 스스로 저장해 언제 어디서나 활용하고 공유할 수 있는 사용자 중심의 서비스 웹 클라우드 플랫폼입니다.
-6. 참고 : 
+6. 참고 :  
 ① 해당 사이트는 2023년 4월 20일 현재 운영되지 않습니다.  
 ② 구글 플레이 - https://play.google.com/store/apps/details?id=com.sechang.wepware&hl=ko&gl=US  
 ③ 앱 스토어 - https://apps.apple.com/kr/app/웹웨어-wepware-자료수집/id1488567360(서비스 중단)
