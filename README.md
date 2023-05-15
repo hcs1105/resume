@@ -119,7 +119,7 @@
 6. 참고 :  
 ① 해당 사이트는 2023년 4월 20일 현재 운영되지 않습니다.  
 ② 구글 플레이 - https://play.google.com/store/apps/details?id=com.sechang.wepware&hl=ko&gl=US  
-③ 앱 스토어 - https://<hi1>apps.apple<hi2>.com/kr/app/웹웨어-wepware-자료수집/id1488567360>(서비스 중단)
+③ 앱 스토어 - https://<hi1>apps.apple<hi2>.com/kr/app/웹웨어-wepware-자료수집/id1488567360(서비스 중단)
 
 #### :technologist: 교육 정보 서비스 제공 시스템
 1. 소개 : ETRL, 대전광역시 교육청과 협의하여 대전광역시에 있는 학교들 간에 교육 정보를 공유하도록 도움이 되는 솔루션을 구축한 프로젝트입니다.
