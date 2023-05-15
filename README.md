@@ -121,14 +121,14 @@
 ② 구글 플레이 - https://play.google.com/store/apps/details?id=com.sechang.wepware&hl=ko&gl=US
 ③ 앱 스토어 - https://apps.apple.com/kr/app/웹웨어-wepware-자료수집/id1488567360(서비스 중단)
 
-#### :technologist: [ETRL] - 교육 정보 서비스 제공 시스템
+#### :technologist: 교육 정보 서비스 제공 시스템
 1. 소개 : ETRL, 대전광역시 교육청과 협의하여 대전광역시에 있는 학교들 간에 교육 정보를 공유하도록 도움이 되는 솔루션을 구축한 프로젝트입니다.
 2. 참여 기간 : 2013.08 ~ 2013.10
 3. 고객사 : 한국전자통신연구원(ETRL)
 4. 개발 언어 / 버전 관리 도구 : HTML, CSS, JavaScript / SVN
 5. 담당 업무 : UI 개발
 
-#### :technologist: [Avantis] - 무선 인터넷 단말기 관리 시스템
+#### :technologist: 무선 인터넷 단말기 관리 시스템
 1. 소개 : 아반티스에서 개발한 안드로이드용 기반의 Home Tablet, Media Device 등을 관리하는데 도움이 되는 솔루션을 구축한 프로젝트입니다.
 2. 참여 기간 : 2010.09 ~ 2010.11
 3. 고객사 : 아반티스(Avantis)
