@@ -40,7 +40,7 @@
 
 ### 푸드나무
 
-#### 랭킹닭컴 - https://www.rankingdak
+#### 랭킹닭컴 - https://www.rankingdak.com
 1. 참여 기간 : 2022.04 ~ 2023.01
 2. 고객사 : 푸드나무
 3. 개발 언어 / 버전 관리 도구 : HTML, CSS, JavaScript, jQuery, JSP / Git
